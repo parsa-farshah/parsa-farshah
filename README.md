@@ -46,5 +46,6 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
-![Snake animation](https://raw.githubusercontent.com/parsa-farshah/parsa-farshah/output/dist/snake.svg)
+# پروفایل من 🐍
+
+![Snake animation](https://raw.githubusercontent.com/parsa-farshah/parsa-farshah/main/snake.svg)
