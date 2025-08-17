@@ -40,7 +40,7 @@ With a continuous learning mindset and strong attention to detail, I’m always 
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/Parsa Dehghan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+<a href="https://buymeacoffee.com/parsadehghan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
 
 ## GitHub Trophies
 
