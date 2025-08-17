@@ -24,6 +24,12 @@ With a continuous learning mindset and strong attention to detail, I’m always 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parsa-farshah/parsa-farshah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parsa-farshah/parsa-farshah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parsa-farshah/parsa-farshah/output/pacman-contribution-graph.svg">
+</picture>
+
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=parsa-farshah&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
